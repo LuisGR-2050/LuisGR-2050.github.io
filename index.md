@@ -4,7 +4,7 @@
 
 ### Capstone Project 
 
-[Bikeshare Analysis](/sample_page)
+[Bikshare Analysis on Kaggle](https://www.kaggle.com/code/luisgarciaramirez/capstone-bikeshare-analysis)
 <img src="images/bikeshare_thumbnail_s.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Bikshare Analysis on Kaggle](https://www.kaggle.com/code/luisgarciaramirez/capstone-bikeshare-analysis)
+[Bikeshare Analysis](/sample_page)
 <img src="images/bikeshare_thumbnail_s.jpg?raw=true"/>
 
 ---
