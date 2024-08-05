@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Capstone Project 
 
-[Project 1 Title](/sample_page)
+[Bikeshare Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Bikshare Analysis on Kaggle](https://www.kaggle.com/code/luisgarciaramirez/capstone-bikeshare-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
